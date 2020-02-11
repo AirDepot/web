@@ -14,14 +14,9 @@
     clear: both;
 }
 
-html {
-    overflow: auto;
-}
-
 body {
     color: #333;
     font-family: Open Sans, Arial, Helvetica, sans-serif;
-    overflow: hidden;
 }
 
 ul {
@@ -33,7 +28,6 @@ a {
 }
 
 div#wrap {
-    width: 100%;
     margin-top: -3rem;
 }
 
@@ -113,9 +107,4 @@ div#about h3 {
 }
 
 div#about p#about_kustomape {
-    padding-top: 7rem;
-    margin-left: 3rem;
-    font-size: 1rem;
-    letter-spacing: 0.1rem;
-    line-height: 5rem;
 }

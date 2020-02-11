@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="494.302" height="90.615" viewBox="0 0 494.302 90.615">
+  <g id="MainLogo" transform="translate(-49.698 -50.377)">
+    <g id="logo" transform="translate(-513.821 -260.338)">
+      <g id="Group_2" data-name="Group 2" transform="translate(563.519 310.715)">
+        <path id="Path_1" data-name="Path 1" d="M615.357,372.208s23.925-9.125,30.921.61l-1.712,9.017S621.4,370.539,615.357,372.208Z" transform="translate(-545.978 -291.22)" fill="#333" fill-rule="evenodd"/>
+        <path id="Path_2" data-name="Path 2" d="M630.44,337.4s-.052,6.313,6.578,6.313,6.422-5.392,6.422-5.392L659.1,349.485l2.685-4.071s11.569,7.868,15.885,8.033-13.049,4.678-13.049,4.678,7.133,7.267,4.752,12.7-10.419,9.432-10.419,9.432-14.356-8.23-20.8-4.007l-21.208,4.03s-9.323-5.829-10.569-9.618,4.7-13.641,4.7-13.641l-14-4.856s11.606-5.416,14.871-4.672S615,350.972,615,350.972Z" transform="translate(-552.164 -301.686)" fill="#333" fill-rule="evenodd"/>
+        <path id="Path_3" data-name="Path 3" d="M676.192,327.9s8.482-8.848,15.339-8.068-1.63,2.789,1.811,6.158,7.115,6.737,7.115,6.737l-8.124,16.014L674.648,354.4s-3.434-6.81-.343-8.848,10.273-5.873,10.273-5.873l-5.426-2.356,9.386-7.49-14.215,5.9Z" transform="translate(-526.467 -307.646)" fill="#333" fill-rule="evenodd"/>
+        <g id="Group_1" data-name="Group 1" transform="translate(0 12.139)">
+          <path id="Path_4" data-name="Path 4" d="M587.782,327.9s-8.481-8.848-15.339-8.068,1.63,2.789-1.811,6.158-7.114,6.737-7.114,6.737l8.123,16.014,17.685,5.657s3.434-6.81.344-8.848-10.275-5.873-10.275-5.873l5.426-2.356-9.386-7.49,14.215,5.9Z" transform="translate(-563.519 -319.785)" fill="#333" fill-rule="evenodd"/>
+        </g>
+        <path id="Path_5" data-name="Path 5" d="M639.242,330.962s-2.044,2.428,3.11,2.156,31.673-22.4,31.673-22.4,17.737,2.539,21.551,9.137,3.434,15.267,3.434,15.267-6.227,17.9-8.785,20.769-21.05-3.873-21.05-3.873,12.609-6.458,17.084-9.786,3.661-11.459-1.568-13.206-31.868,10.654-31.868,10.654l.893-7.538-12.383,9.691-11.92-9.8s3.4,2.9-3.889,5.42l-27.5-8.248s-6.083,7.324-.964,11.181,16.067,9.424,16.067,9.424-13.3,8.119-19.344,6.729-9.482-21.262-9.482-21.262l4.5-13.662,22.889-9.817Z" transform="translate(-556.486 -310.715)" fill="#333" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <text id="KustomApe" transform="translate(234 107)" fill="#333" font-size="50" font-family="HemiHeadRg-BoldItalic, Hemi Head" font-weight="700" font-style="italic" letter-spacing="0.05em"><tspan x="0" y="0">KustomApe</tspan></text>
+    <text id="Street_Hackers" data-name="Street Hackers" transform="translate(234 129)" fill="#333" font-size="20" font-family="HemiHeadRg-BoldItalic, Hemi Head" font-weight="700" font-style="italic" letter-spacing="0.05em"><tspan x="0" y="0">Street Hackers</tspan></text>
+  </g>
+</svg>

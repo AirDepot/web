@@ -14,14 +14,9 @@
     clear: both;
 }
 
-html {
-    overflow: auto;
-}
-
 body {
     color: #333;
     font-family: Open Sans, Arial, Helvetica, sans-serif;
-    overflow: hidden;
 }
 
 ul {
@@ -33,7 +28,6 @@ a {
 }
 
 div#wrap {
-    width: 100%;
     margin-top: -3rem;
 }
 
@@ -82,40 +76,19 @@ nav#nav ul#navigations li a {
     color: #fff;
 }
 
-div#header_contents {
-    display: inline-flex;
+div#header_contents p#ape_icon {
+    display: block;
     margin-left: 3rem;
-    padding: 15rem 0;
-}
-
-div#header_contents h2#concept {
-    padding: 4.5rem 1rem;
-    letter-spacing: 0.1rem;
-    font-weight: 100;
-    font-size: 1.5rem;
+    margin-top: 15rem;
+    width: 100px;
 }
 
 div#header_contents p#ape_icon img {
+    display: inline-flex;
     width: 200px;
 }
 
 div#about {
     width: 100%;
     height: 1080px;
-}
-
-div#about h3 {
-    font-size: 2rem;
-    font-weight: 500;
-    padding-top: 3rem;
-    margin-left: 3rem;
-    letter-spacing: 0.1rem;
-}
-
-div#about p#about_kustomape {
-    padding-top: 7rem;
-    margin-left: 3rem;
-    font-size: 1rem;
-    letter-spacing: 0.1rem;
-    line-height: 5rem;
 }

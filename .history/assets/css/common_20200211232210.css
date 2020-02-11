@@ -14,14 +14,9 @@
     clear: both;
 }
 
-html {
-    overflow: auto;
-}
-
 body {
     color: #333;
     font-family: Open Sans, Arial, Helvetica, sans-serif;
-    overflow: hidden;
 }
 
 ul {
