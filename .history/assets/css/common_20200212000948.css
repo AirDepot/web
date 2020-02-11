@@ -128,8 +128,8 @@ div#products {
 
 section#box_master {
     display: block;
-    width: 1200px;
-    margin: 0 auto;
+    width: 100%;
+    margin-left: 5rem;
     margin-top: 9rem;
 }
 
@@ -156,49 +156,14 @@ p.box {
 
 div#developers {
     width: 100%;
-    height: 900px;
+    height: 1080px;
     background: #F5F9FA;
-}
-
-p#profile_pic img {
-    display: block;
-    width: 300px;
-    margin: 0 auto;
-    margin-top: 9rem;
-}
-
-div#profile_desc {
-    margin-top: 3rem;
-}
-
-p.about_eisuke {
- text-align: center;
- padding-top: 1rem;
- letter-spacing: 0.1rem;
- font-size: 1rem;
-}
-
-p.about_eisuke_bold {
- text-align: center;
- padding-top: 1rem;
- letter-spacing: 0.15rem;
- font-size: 1.3rem;
- font-weight: bold;
 }
 
 div#contact {
     width: 100%;
-    height: 900px;
+    height: 1080px;
 }
-
-div#contact p#kustomape_contact {
-    padding-top: 7rem;
-    margin-left: 5rem;
-    font-size: 1rem;
-    letter-spacing: 0.1rem;
-    line-height: 5rem;
-}
-
 
 footer#footer {
     width: 100%;
