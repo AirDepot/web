@@ -9,6 +9,6 @@
     </filter>
   </defs>
   <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_24)">
-    <rect id="Rectangle_24-2" data-name="Rectangle 24" width="300" height="150" rx="20" transform="translate(12 8)" fill="#4f91b7"/>
+    <rect id="Rectangle_24-2" data-name="Rectangle 24" width="300" height="150" rx="20" transform="translate(12 8)" fill="#555"/>
   </g>
 </svg>
